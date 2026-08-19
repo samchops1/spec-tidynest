@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Tidy Nest">
+  <rect width="80" height="80" rx="22" fill="#2f4a3a"/>
+  <g fill="none" stroke="#e3b86a" stroke-width="2.15" stroke-linecap="round">
+    <path d="M15 51c9 13 41 13 50 0"/>
+    <path d="M17 46c10 10 36 10 46 0"/>
+    <path d="M21 55c8 7 30 7 38 0"/>
+    <path d="M19 42c5 5 7 11 5 16"/>
+    <path d="M61 42c-5 5-7 11-5 16"/>
+    <path d="M24 49c10 4 22 4 32 0"/>
+  </g>
+  <g fill="#f6efe4">
+    <ellipse cx="32" cy="37.5" rx="7.2" ry="5.6"/>
+    <ellipse cx="26.2" cy="34.4" rx="4.1" ry="3.2"/>
+    <ellipse cx="48" cy="37.5" rx="7.2" ry="5.6"/>
+    <ellipse cx="53.8" cy="34.4" rx="4.1" ry="3.2"/>
+  </g>
+  <path d="M22.2 34.6l-4.4 1.6 4.4 1.2z" fill="#c15a42"/>
+  <path d="M57.8 34.6l4.4 1.6-4.4 1.2z" fill="#c15a42"/>
+  <circle cx="27.4" cy="33.6" r="0.7" fill="#241c16"/>
+  <circle cx="52.6" cy="33.6" r="0.7" fill="#241c16"/>
+</svg>
